@@ -1,0 +1,13 @@
+notepad .dockerignore
+```
+
+Paste this:
+```
+.git
+.gitignore
+*.md
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+*.log

@@ -1,8 +1,8 @@
 <?php
-// Database configuration
-$host = 'localhost';
+// Database configuration for Docker environment
+$host = 'db';
 $username = 'root';
-$password = '';  // XAMPP default has no password
+$password = 'root_password';
 $database = 'course_registration_db';
 
 // Create connection
